@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Form from "./components/Form";
 import Dashboard from "./components/Dashboard";
 import {TransactionProvider} from "./context/TransactionContext";
-import ListGroup from "./components/Listgroup";
+import ListGroup from "./components/ListGroup";
 
 const App = () => {
 
